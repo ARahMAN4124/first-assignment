@@ -1,0 +1,153 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+}
+.text-hightlight {
+  color: #ff9100;
+}
+#hero {
+  background-color: #0a0024;
+  height: 100vh;
+}
+.helf-div {
+  width: 36%;
+  padding: 2%;
+  color: #ffffff;
+  margin: 5%;
+  float: left;
+}
+.helf-div h4 {
+  font-size: 2em;
+}
+.helf-div h2 {
+  font-size: 4em;
+}
+.helf-div p {
+  font-size: 18px;
+}
+.link {
+  padding: 0.6rem 1rem;
+  background-color: #ff9100;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+  text-decoration: none;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.helf-div img {
+  width: 100%;
+}
+#about {
+  background-color: #0c002c;
+  height: 650px;
+}
+#about .helf-div img {
+  width: 80%;
+}
+#work-exp {
+  background-color: #0a0024;
+  height: 700px;
+  color: #ffffff;
+}
+#work-exp h2 {
+  text-align: center;
+  font-size: 45px;
+  padding-top: 55px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.work-div {
+  padding: 1rem;
+  border-radius: 10px;
+  width: 24%;
+  color: #111111;
+  float: left;
+  background-color: rgb(255, 255, 255);
+  margin-left: 5%;
+  margin-top: 5rem;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.work-div img {
+  width: 100%;
+}
+.work-div h3 {
+  font-size: 30px;
+}
+#inq-work {
+  height: 300px;
+  padding-top: 7rem;
+  background-color: #0c002c;
+}
+.work-inq {
+  width: 60%;
+  background-image: url(/img/work-inq.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  border-radius: 30px;
+  margin: 0 20%;
+}
+.work-inq h2 {
+  width: 80%;
+  font-size: 50px;
+  padding-left: 2%;
+  margin-top: 4rem;
+  display: inline-block;
+}
+#skill {
+  background-color: #0a0024;
+  height: 550px;
+  padding: 2% 10%;
+  color: #ffffff;
+}
+#skill h2 {
+  text-align: center;
+  font-size: 45px;
+  padding-top: 55px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.skill-div {
+  text-align: center;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 15%;
+  color: #111111;
+  float: left;
+  background-color: rgb(255, 255, 255);
+  margin: 0 3%;
+  margin-top: 5rem;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.skill-div img {
+  width: 60px;
+}
+.skill-div h3 {
+  color: #ff9100;
+}
+footer {
+  text-align: center;
+  padding: 10px 0;
+}
+footer h2 {
+  font-size: 40px;
+  color: #ff9100;
+}
+footer h4 {
+  font-size: 25px;
+  color: #000000;
+}
+footer img {
+  width: 50px;
+  margin-left: 1rem;
+}
