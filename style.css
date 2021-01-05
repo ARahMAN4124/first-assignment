@@ -87,7 +87,7 @@ body {
 }
 .work-inq {
   width: 60%;
-  background-image: url(/img/work-inq.png);
+  background-image: url(img/work-inq.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 200px;
