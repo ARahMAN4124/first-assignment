@@ -7,7 +7,7 @@ body {
 }
 #hero {
   background-color: #0a0024;
-  height: 100vh;
+  height: 800px;
 }
 .helf-div {
   width: 36%;
@@ -43,10 +43,11 @@ body {
 }
 #about {
   background-color: #0c002c;
-  height: 650px;
+  height: 700px;
+  padding: 0 50px;
 }
 #about .helf-div img {
-  width: 80%;
+  width: 100%;
 }
 #work-exp {
   background-color: #0a0024;
