@@ -133,27 +133,27 @@ body {
   border: 2px solid #ff9100;
   background-color: #0c002c;
   border-radius: 10px;
-  transform: scaleY(0);
-  transform-origin: top;
+  transform: scaleX(0);
+  transform-origin: left;
   transition: 0.8s all ease;
   -webkit-transition: 0.8s all ease;
   -moz-transition: 0.8s all ease;
   -ms-transition: 0.8s all ease;
   -o-transition: 0.8s all ease;
-  -webkit-transform: scaleY(0);
-  -moz-transform: scaleY(0);
-  -ms-transform: scaleY(0);
-  -o-transform: scaleY(0);
+  -webkit-transform: scaleX(0);
+  -moz-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  -o-transform: scaleX(0);
 }
 .work-div:hover::after,
 .work-div:hover .hover {
-  transform: scaleY(1);
-  transform-origin: bottom;
+  transform: scaleX(1);
+  transform-origin: right;
   opacity: 1;
-  -webkit-transform: scaleY(1);
-  -moz-transform: scaleY(1);
-  -ms-transform: scaleY(1);
-  -o-transform: scaleY(1);
+  -webkit-transform: scaleX(1);
+  -moz-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  -o-transform: scaleX(1);
 }
 .work-div img {
   width: 100%;
